@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1515d3c-0c1f-46fa-b764-d9fbacab31b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -62,7 +65,7 @@
       <updated>1640781685260</updated>
       <workItem from="1640781688783" duration="8315000" />
       <workItem from="1640804258268" duration="860000" />
-      <workItem from="1640806701363" duration="473000" />
+      <workItem from="1640806701363" duration="2462000" />
     </task>
     <servers />
   </component>
@@ -70,6 +73,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="310" y="23" key="#PHP" timestamp="1640809785332">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="310" y="23" key="#PHP/0.23.1280.710@0.23.1280.710" timestamp="1640809785332" />
     <state x="456" y="301" key="NewPhpFileDialog" timestamp="1640809468062">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
