@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1515d3c-0c1f-46fa-b764-d9fbacab31b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tribute-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/kobe-main.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +62,7 @@
       <updated>1640781685260</updated>
       <workItem from="1640781688783" duration="8315000" />
       <workItem from="1640804258268" duration="860000" />
-      <workItem from="1640806701363" duration="52000" />
+      <workItem from="1640806701363" duration="473000" />
     </task>
     <servers />
   </component>
@@ -74,6 +70,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="456" y="301" key="NewPhpFileDialog" timestamp="1640809468062">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="456" y="301" key="NewPhpFileDialog/0.23.1280.710@0.23.1280.710" timestamp="1640809468062" />
     <state x="149" y="23" width="982" height="716" key="SettingsEditor" timestamp="1640798489201">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
