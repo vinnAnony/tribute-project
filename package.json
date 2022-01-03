@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vinnAnony/tribute-project/issues"
   },
-  "homepage": "https://github.com/vinnAnony/tribute-project#readme"
+  "homepage": "https://github.com/vinnAnony/tribute-project#readme",
+  "dependencies": {
+    "foundation-sites": "^6.7.4"
+  }
 }
