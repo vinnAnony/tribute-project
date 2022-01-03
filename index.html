@@ -110,23 +110,39 @@
     <section id="fan-tributes">
         <h2 class="heading">Fan Tributes</h2>
         <form>
-            <label for="fullname">Full Name</label>
-            <input type="text" id="fullname" name="fullname" placeholder="Your full name">
-
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email" placeholder="Your email address">
-
-            <label for="country">Country</label>
-            <select id="country" name="country">
-                <option value="" selected disabled>Select Country</option>
-                <option value="kenya">Kenya</option>
-                <option value="algeria">Algeria</option>
-                <option value="ethiopia">Ethiopia</option>
-                <option value="rwanda">Rwanda</option>
-                <option value="somalia">Somalia</option>
-            </select>
-            <textarea name="tribute" placeholder="Your fan tribute"></textarea>
-            <input class="primary" type="submit" value="Send Tribute">
+            <div class="grid-y">
+                <div class="grid-x">
+                    <div class="large-12 cell">
+                        <label for="fullname">Full Name</label>
+                        <input type="text" id="fullname" name="fullname" placeholder="Your full name">
+                    </div>
+                </div>
+                <div class="grid-x">
+                    <div class="large-12 cell">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" placeholder="Your email address">
+                    </div>
+                </div>
+                <div class="grid-x">
+                    <div class="large-12 cell">
+                        <label for="country">Country</label>
+                        <select id="country" name="country">
+                            <option value="" selected disabled>Select Country</option>
+                            <option value="kenya">Kenya</option>
+                            <option value="algeria">Algeria</option>
+                            <option value="ethiopia">Ethiopia</option>
+                            <option value="rwanda">Rwanda</option>
+                            <option value="somalia">Somalia</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="grid-x">
+                    <div class="large-12 cell">
+                        <textarea name="tribute" placeholder="Your fan tribute"></textarea>
+                    </div>
+                </div>
+                <input class="primary" type="submit" value="Send Tribute">
+            </div>
         </form>
     </section>
 
